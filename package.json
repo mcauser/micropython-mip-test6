@@ -8,7 +8,7 @@
     ["../test6f.py", "github:mcauser/micropython-mip-test6/test6f.py"],
     ["foo/test6g.py", "github:mcauser/micropython-mip-test6/test6g.py"],
     ["foo/bar/test6h.py", "github:mcauser/micropython-mip-test6/test6h.py"],
-    ["../foo/bar/test6i.py", "github:mcauser/micropython-mip-test6/test6i.py"]
+    ["../pow/zap/test6i.py", "github:mcauser/micropython-mip-test6/test6i.py"]
   ],
   "deps": [],
   "version": "0.1"
