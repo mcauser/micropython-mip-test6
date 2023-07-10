@@ -3,8 +3,8 @@
     ["test6a.py", "github:mcauser/micropython-mip-test6/test6a.py"],
     ["/test6b.py", "github:mcauser/micropython-mip-test6/test6b.py"],
     ["lib/test6c.py", "github:mcauser/micropython-mip-test6/test6c.py"],
-    ["lib/foo/test6d.py", "github:mcauser/micropython-mip-test6/test6d.py"],
-    ["lib/foo/bar/test6e.py", "github:mcauser/micropython-mip-test6/test6e.py"]
+    ["/lib/foo/test6d.py", "github:mcauser/micropython-mip-test6/test6d.py"],
+    ["/lib/foo/bar/test6e.py", "github:mcauser/micropython-mip-test6/test6e.py"]
   ],
   "deps": [],
   "version": "0.1"
