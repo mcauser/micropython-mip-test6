@@ -46,6 +46,8 @@ test6c
 test6d
 >>> import lib.lib.test6e
 test6e
+>>> import test6f
+test6f
 >>> import lib.foo.test6g
 test6g
 >>> import pow.zap.test6i
