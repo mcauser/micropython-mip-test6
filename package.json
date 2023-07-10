@@ -2,9 +2,13 @@
   "urls": [
     ["test6a.py", "github:mcauser/micropython-mip-test6/test6a.py"],
     ["/test6b.py", "github:mcauser/micropython-mip-test6/test6b.py"],
-    ["lib/test6c.py", "github:mcauser/micropython-mip-test6/test6c.py"],
-    ["/lib/foo/test6d.py", "github:mcauser/micropython-mip-test6/test6d.py"],
-    ["/lib/foo/bar/test6e.py", "github:mcauser/micropython-mip-test6/test6e.py"]
+    ["./test6c.py", "github:mcauser/micropython-mip-test6/test6c.py"],
+    ["lib/test6d.py", "github:mcauser/micropython-mip-test6/test6d.py"],
+    ["/lib/test6e.py", "github:mcauser/micropython-mip-test6/test6e.py"],
+    ["../test6f.py", "github:mcauser/micropython-mip-test6/test6f.py"],
+    ["foo/test6g.py", "github:mcauser/micropython-mip-test6/test6g.py"],
+    ["foo/bar/test6h.py", "github:mcauser/micropython-mip-test6/test6h.py"],
+    ["./foo/bar/test6i.py", "github:mcauser/micropython-mip-test6/test6i.py"]
   ],
   "deps": [],
   "version": "0.1"
